@@ -25,5 +25,5 @@ Can we predict electrical price by time of day better than TSO?
 Forecast intraday price or electrical demand hour-by-hour.
 What is the next generation source to be activated on the load curve?
 
-Data source: https://www.kaggle.com/code/ghassenfarjallah/energy-optimisation-prefinal-version/input
+Data source: https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather
 
